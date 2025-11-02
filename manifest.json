@@ -1,0 +1,42 @@
+{
+  "agent_name": "ROKO Africa Hub",
+  "founder": "Habibu Sulemanu",
+  "tg_handle": "@walanka",
+  "wallet_address": "UQAPEX6LpWln0a-mXMBNXnwIM-efRCNlbae0t1n0Y6iQyuQw",
+  "region": "Ghana / Africa",
+  "mission": "Empowering Africa through decentralized AI and compute infrastructure — connecting education, research, and innovation through ROKO and TON ecosystems.",
+  "visibility": "public",
+  "pricing": {
+    "model": "freemium",
+    "free_tier": "learning + research nodes",
+    "paid_tier": "enterprise compute & analytics",
+    "currency": "USDC",
+    "payment_mode": "on-chain"
+  },
+  "focus_areas": [
+    "AI Education",
+    "Compute Access",
+    "Open Knowledge Nodes",
+    "Ethical AI",
+    "Decentralized Economy"
+  ],
+  "beneficiaries": [
+    "students",
+    "universities",
+    "local startups",
+    "developers"
+  ],
+  "impact_targets": {
+    "students_onboarded": 1000,
+    "universities_engaged": 5,
+    "startups_supported": 10,
+    "node_operators_trained": 10
+  },
+  "sla": {
+    "uptime": "99.5%",
+    "latency_target": "<500ms",
+    "support_email": "hab433@gmail.com"
+  },
+  "repo": "https://github.com/hab433-tech/ROKO-_AFRICA_HUB",
+  "contact": "hab433@gmail.com"
+}
