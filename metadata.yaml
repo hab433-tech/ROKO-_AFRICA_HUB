@@ -1,0 +1,48 @@
+project:
+  name: "ROKO Africa Hub"
+  founder: "Habibu Sulemanu"
+  description: "Empowering Africa through decentralized AI, compute access, and open education under the ROKO and TON ecosystems."
+  region: "Ghana / Africa"
+  category:
+    - AI Education
+    - Decentralized Compute
+    - Research & Innovation
+  mission: >
+    ROKO Africa Hub bridges the gap between African universities, local startups,
+    and decentralized AI infrastructure — enabling fair access to compute, research,
+    and training opportunities through blockchain transparency and collaboration.
+
+repository:
+  url: "https://github.com/hab433-tech/ROKO-_AFRICA_HUB"
+  license: "MIT"
+  visibility: "public"
+  created: "2025-11-03"
+
+contact:
+  email: "hab433@gmail.com"
+  telegram: "@walanka"
+
+economics:
+  token_contract: "0x66a9893cc07d91d95644aedd05d03f95e1dba8af"
+  chain: "Ethereum"
+  funding_model: "Freemium with research and enterprise tiers"
+  accepted_currency: "USDC"
+  payment_mode: "on-chain"
+
+beneficiaries:
+  - students
+  - universities
+  - local startups
+  - developers
+
+impact_targets:
+  students_onboarded: 1000
+  universities_engaged: 5
+  startups_supported: 10
+  node_operators_trained: 10
+
+technical:
+  uptime_target: "99.5%"
+  latency_target: "<500ms"
+  governance: "planned multisig and timelock implementation"
+  roadmap_stage: "foundation phase"
