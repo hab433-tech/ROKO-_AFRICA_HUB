@@ -1,0 +1,36 @@
+{
+  "name": "ROKO Africa Hub",
+  "symbol": "ROKO",
+  "version": "1.0.0",
+  "description": "A decentralized ecosystem connecting blockchain innovation, AI utility, and real-world impact across Africa.",
+  "homepage": "https://github.com/hab433-tech/ROKO-_AFRICA_HUB",
+  "chain": "Ethereum",
+  "contract_address": "0x66a9893cc07d91d95644aedd05d03f95e1dba8af",
+  "founder": "Habibu Sulemanu",
+  "status": "Early Stage (Accumulation Phase)",
+  "goals": {
+    "short_term": [
+      "Increase ROKO token accumulation",
+      "Develop audit and transparency framework",
+      "Establish community foundation"
+    ],
+    "long_term": [
+      "Launch staking and governance modules",
+      "Expand ROKO Hub ecosystem with African partnerships",
+      "Establish DAO-based treasury and continuous incentives"
+    ]
+  },
+  "governance": {
+    "model": "DAO (future)",
+    "timelock_enabled": false,
+    "multisig_addresses": [],
+    "voting_token": "ROKO"
+  },
+  "transparency": {
+    "repo": "https://github.com/hab433-tech/ROKO-_AFRICA_HUB",
+    "audit_status": "Pending",
+    "open_source": true
+  },
+  "created_at": "2025-11-03",
+  "last_updated": "2025-11-03"
+}
