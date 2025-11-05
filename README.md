@@ -57,3 +57,29 @@
   "region_limit": "Africa",
   "license": "MIT"
 }
+---
+
+## 🚀 Open Call: Join the ROKO Africa Hub Build
+
+We’re building the **ROKO Africa Hub**, a community-driven initiative to support ROKO’s ecosystem through transparent, on-chain tooling and research.
+
+### 💡 Focus Areas
+- Smart contract audits & automation (buyback, burn, governance)
+- Front-end dashboards (testnet explorers, community analytics)
+- Infrastructure scripts (monitoring, data indexing)
+- Documentation, tutorials & education
+
+### 🧠 How to Contribute
+1. **Fork** this repo  
+2. **Create** your own file in `/proposals/yourname-proposal.md`  
+3. **Describe** your contribution idea, deliverables, and timeline  
+4. **Submit** a pull request  
+5. **Discuss & collaborate** under Issues or Discussions
+
+Lead Maintainer: [@hab433-tech](https://github.com/hab433-tech)  
+Contact: hab433-tech@proton.me  
+Community Tag: #ROKOAfricaHub 🌍  
+
+---
+
+> **Goal:** Build verifiable, open-source tooling that helps ROKO scale transparently and empower builders across Africa & globally.
