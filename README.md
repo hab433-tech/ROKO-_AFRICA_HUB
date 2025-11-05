@@ -83,3 +83,13 @@ Community Tag: #ROKOAfricaHub 🌍
 ---
 
 > **Goal:** Build verifiable, open-source tooling that helps ROKO scale transparently and empower builders across Africa & globally.
+🧾 Proof of Work via Commits
+
+All development and proposal-related changes are transparently recorded on GitHub.
+You can verify my direct commits, file history, and contributions using the public commit log below:
+
+Contributor: @hab433-tech￼
+Repository: ROKO-_AFRICA_HUB￼
+Commit Log: View Commits by hab433-tech →￼
+
+Each commit includes verifiable timestamps, file diffs, and signed commit metadata, serving as a cryptographic proof of authorship and project progress.
