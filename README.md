@@ -1,4 +1,70 @@
-# ROKO-_AFRICA_HUB
+🌍 ROKO Africa Hub
+
+Founder: Habibu Sulemanu
+Region: Ghana / Africa
+Email: hab433@gmail.com￼
+Telegram: @walanka￼
+Repo: ROKO-_AFRICA_HUB￼
+
+⸻
+
+🚀 Mission
+
+Empowering Africa through decentralized AI and compute infrastructure — connecting education, research, and innovation through the ROKO and TON ecosystems.
+
+⸻
+
+💡 Focus Areas
+	•	AI Education & Open Knowledge Nodes
+	•	Compute Access & Decentralized Economy
+	•	Smart Contract Audits & Automation (Buyback, Burn, Governance)
+	•	Front-End Dashboards (Explorers, Analytics, Visual Tools)
+	•	Infrastructure Scripts (Monitoring, Indexing, Validators)
+	•	Ethical AI Research & Transparency Frameworks
+
+⸻
+
+🧠 How to Contribute
+	1.	Fork this repo
+	2.	Create your own file in /proposals/yourname-proposal.md
+	3.	Describe your idea, deliverables, and timeline
+	4.	Submit a Pull Request
+	5.	Discuss, get feedback, and collaborate under Issues or Discussions
+
+All contributions are public and verifiable on GitHub.
+Each PR acts as transparent proof of work.
+
+⸻
+
+🤝 Supporters & Partners
+
+We collaborate with builders, educators, and innovators helping shape Africa’s decentralized future.
+
+Partner Type	Example / Role	Status
+Community Projects	Local developer collectives, blockchain clubs	Open
+Universities	Tech & innovation departments across Africa	Outreach Phase
+ROKO Ecosystem Devs	Smart contract and AI automation contributors	Active
+Sponsors	Compute & funding partners	Open
+Mentors	Experienced Solidity, AI, or DevOps engineers	Recruiting
+
+Interested in partnering or mentoring?
+📩 Contact hab433-tech@proton.me or open an Issue tagged #partnership.
+
+⸻
+
+🧾 Proof of Work via Commits
+
+All development and proposal-related changes are transparently recorded on GitHub.
+
+Contributor: @hab433-tech￼
+Repository: ROKO-_AFRICA_HUB￼
+Commit Log: View Commits →￼
+
+Each commit includes timestamps, diffs, and signed metadata — serving as cryptographic proof of authorship and ongoing progress.
+
+⸻
+
+📊 Core JSON Data
 
 {
   "agent_name": "ROKO Africa Hub",
@@ -42,54 +108,3 @@
   "repo": "https://github.com/hab433-tech/ROKO-_AFRICA_HUB",
   "contact": "hab433@gmail.com"
 }
-{
-  "access": {
-    "tier_1": "Public / Research",
-    "tier_2": "Node Operators",
-    "tier_3": "Enterprise / Sponsors"
-  },
-  "pricing": {
-    "tier_1": 0,
-    "tier_2": 25,
-    "tier_3": 100
-  },
-  "currency": "USDC",
-  "region_limit": "Africa",
-  "license": "MIT"
-}
----
-
-## 🚀 Open Call: Join the ROKO Africa Hub Build
-
-We’re building the **ROKO Africa Hub**, a community-driven initiative to support ROKO’s ecosystem through transparent, on-chain tooling and research.
-
-### 💡 Focus Areas
-- Smart contract audits & automation (buyback, burn, governance)
-- Front-end dashboards (testnet explorers, community analytics)
-- Infrastructure scripts (monitoring, data indexing)
-- Documentation, tutorials & education
-
-### 🧠 How to Contribute
-1. **Fork** this repo  
-2. **Create** your own file in `/proposals/yourname-proposal.md`  
-3. **Describe** your contribution idea, deliverables, and timeline  
-4. **Submit** a pull request  
-5. **Discuss & collaborate** under Issues or Discussions
-
-Lead Maintainer: [@hab433-tech](https://github.com/hab433-tech)  
-Contact: hab433-tech@proton.me  
-Community Tag: #ROKOAfricaHub 🌍  
-
----
-
-> **Goal:** Build verifiable, open-source tooling that helps ROKO scale transparently and empower builders across Africa & globally.
-🧾 Proof of Work via Commits
-
-All development and proposal-related changes are transparently recorded on GitHub.
-You can verify my direct commits, file history, and contributions using the public commit log below:
-
-Contributor: @hab433-tech￼
-Repository: ROKO-_AFRICA_HUB￼
-Commit Log: View Commits by hab433-tech →￼
-
-Each commit includes verifiable timestamps, file diffs, and signed commit metadata, serving as a cryptographic proof of authorship and project progress.
